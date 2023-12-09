@@ -1,1 +1,9 @@
 A new file for fixit
+
+state the problem
+1. we check out to a new branch
+2.Made a modification and committed it..
+3.we heck out of the maser branch
+4. Modified the same file and committed the changes
+5. Now, we expect a merge conflict
+
